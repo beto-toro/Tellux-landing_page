@@ -5,7 +5,6 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  font-size: 14px;
 }
 
 header {
@@ -109,20 +108,20 @@ header p {
 }
 .page2__description h1 {
   color: #222a35;
-  font-size: 4.5em;
+  font-size: 4em;
   padding: 1em 0 0 4em;
 }
 .page2__description--list {
   width: 50%;
   display: inline-block;
-  margin: auto 0 auto 18em;
+  margin: 5em 0 auto 18em;
 }
 .page2__description--container {
   display: flex;
 }
 .page2__description--container li {
   list-style: none;
-  font-size: 2em;
+  font-size: 1.7em;
   color: white;
   margin-bottom: 2em;
   font-weight: bold;
@@ -172,7 +171,7 @@ header p {
 }
 .page3__description--container li {
   list-style: none;
-  font-size: 2.5em;
+  font-size: 1.8em;
   padding: 0 1em 10px 1em;
   font-weight: bold;
   margin-bottom: 1em;
@@ -192,7 +191,7 @@ header p {
   padding: 8% 8%;
 }
 .page4 h1 {
-  font-size: 2.5em;
+  font-size: 1.8em;
   text-align: center;
   margin-bottom: 1em;
 }
@@ -213,7 +212,7 @@ header p {
 
 @media screen and (max-width: 1025px) {
   .page4__comment h1 {
-    font-size: 2em;
+    font-size: 1.4em;
   }
 }
 .form {
